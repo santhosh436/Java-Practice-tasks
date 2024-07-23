@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculateare.java/Calculateare.java.iml" filepath="$PROJECT_DIR$/Calculateare.java/Calculateare.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompareObjects/CompareObjects.iml" filepath="$PROJECT_DIR$/CompareObjects/CompareObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Has-a-Relationship/Has-a-Relationship.iml" filepath="$PROJECT_DIR$/Has-a-Relationship/Has-a-Relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HybridInheritance.java/HybridInheritance.java.iml" filepath="$PROJECT_DIR$/HybridInheritance.java/HybridInheritance.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance.java/Inheritance.java.iml" filepath="$PROJECT_DIR$/Inheritance.java/Inheritance.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LanguageFamilies.java/LanguageFamilies.java.iml" filepath="$PROJECT_DIR$/LanguageFamilies.java/LanguageFamilies.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleInheritance.java/MultipleInheritance.java.iml" filepath="$PROJECT_DIR$/MultipleInheritance.java/MultipleInheritance.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism.java/Polymorphism.java.iml" filepath="$PROJECT_DIR$/Polymorphism.java/Polymorphism.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditonalAndIterational/conditonalAndIterational.iml" filepath="$PROJECT_DIR$/conditonalAndIterational/conditonalAndIterational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritTask.java/inheritTask.java.iml" filepath="$PROJECT_DIR$/inheritTask.java/inheritTask.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-Tasks.iml" filepath="$PROJECT_DIR$/.idea/java-Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopPatterns/loopPatterns.iml" filepath="$PROJECT_DIR$/loopPatterns/loopPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multipleNum.java/multipleNum.java.iml" filepath="$PROJECT_DIR$/multipleNum.java/multipleNum.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scannnerClass.java/scannnerClass.java.iml" filepath="$PROJECT_DIR$/scannnerClass.java/scannnerClass.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.java/test.java.iml" filepath="$PROJECT_DIR$/test.java/test.java.iml" />
+    </modules>
+  </component>
+</project>
